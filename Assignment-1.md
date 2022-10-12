@@ -33,3 +33,7 @@ git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
 4. Host a project page in Github Pages.
   > Please click [here](Images/github-pages-1.png) and [here](Images/github-pages-2.png)
   
+
+## **Task 3**
+1. Create an issue in the repo
+  > Please click [here]()
