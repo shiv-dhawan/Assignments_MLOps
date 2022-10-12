@@ -48,4 +48,14 @@ git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
   > Kindly help as I am not able to create a pull request.
 
 5. Add dependabot alert and notify the owner for vulnerability.
-  > 
+  > Please click [here](Images/dependabot.png)
+
+6. Stash changes in branch.
+  > Please click [here](Images/git-stash.png)
+
+7. Create a new release for the project.
+  > Please click [here]()
+
+8. Set up project board.
+  > Project Board -> [here](Images/project-created.png)
+  > Project linked with repo -> [here](Images/project-linked.png)
