@@ -36,4 +36,16 @@ git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
 
 ## **Task 3**
 1. Create an issue in the repo
-  > Please click [here]()
+  > Please click [here](Images/issue)
+
+2. Create a pull request.
+  > Kindly help as I am not able to create a pull request.
+
+3. Merge the pull request.
+  > Kindly help as I am not able to create a pull request.
+
+4. Reject a pull request with comments.
+  > Kindly help as I am not able to create a pull request.
+
+5. Add dependabot alert and notify the owner for vulnerability.
+  > 
