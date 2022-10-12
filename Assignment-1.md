@@ -21,12 +21,15 @@ git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
 
 ## **Task 2**
 
-1. Create an open source repo with proper project structure
+1. Create an open source repo with proper project structure.
   > Please click [here](https://github.com/shiv-dhawan/Assignments_MLOps)
 
-2. Create a detailed README.md file for the above repo
+2. Create a detailed README.md file for the above repo.
   > Please click [here](https://github.com/shiv-dhawan/Assignments_MLOps/blob/main/README.md)
 
 3. Add 2 collaborators to the repo.
-  > Please click [here](Images/)
+  > Please click [here](Images/collaborators.png)
+
+4. Host a project page in Github Pages.
+  > Please click [here](Images/github-pages-1.png) and [here](Images/github-pages-1.png)
   
