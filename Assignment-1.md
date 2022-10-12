@@ -31,5 +31,5 @@ git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
   > Please click [here](Images/collaborators.png)
 
 4. Host a project page in Github Pages.
-  > Please click [here](Images/github-pages-1.png) and [here](Images/github-pages-1.png)
+  > Please click [here](Images/github-pages-1.png) and [here](Images/github-pages-2.png)
   
