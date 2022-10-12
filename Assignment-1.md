@@ -54,7 +54,7 @@ git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
   > Please click [here](Images/git-stash.png)
 
 7. Create a new release for the project.
-  > Please click [here]()
+  > Please click [here](Images/git-release.png)
 
 8. Set up project board.
   > Project Board -> [here](Images/project-created.png)
