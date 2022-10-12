@@ -1,5 +1,5 @@
-**Task 1**
-**: Basic Git Commands**  
+## **Task 1**
+#### **Basic Git Commands**  
 
 **Git Commands** | **Description** | **Snapshot**
 --- | --- | --- 
@@ -18,3 +18,15 @@ git log | To review and read a history of everything that happens to a repo | ![
 git diff | To see the difference between two files or branches | ![](Images/git-diff.png) |
 git show | To view the expanded details on git objects like git tag etc. | ![](Images/git-show.png) |
 git merge | To merge the branch with the main branch | ![](Images/git-merge.png)
+
+## **Task 2**
+
+1. Create an open source repo with proper project structure
+  > Please click [here](https://github.com/shiv-dhawan/Assignments_MLOps)
+
+2. Create a detailed README.md file for the above repo
+  > Please click [here](https://github.com/shiv-dhawan/Assignments_MLOps/blob/main/README.md)
+
+3. Add 2 collaborators to the repo.
+  > Please click [here](Images/)
+  
